@@ -1,0 +1,7 @@
+RT-DETR
+venv/
+.env/
+__pycache__/
+Lib/
+Scripts/
+shara/
